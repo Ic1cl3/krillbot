@@ -1,3 +1,6 @@
-$join##Add [@realkrillbot](<https://krillion.io/friends#invite=4bf6545e3c613233379b96fbed00363b5febd94ee24be254e31718768d55f265>) on Krillion to join the Krillbot database! Be sure to allow answer sharing with Krillbot for full functionality.
-$invite##https://discord.gg/T438mtvCk3
-$roles##https://discord.com/channels/1563026587543142420/1563028336224116847/1564288269410246677
+$join##Add [@realkrillbot](<https://krillion.io/friends#invite=4bf6545e3c613233379b96fbed00363b5febd94ee24be254e31718768d55f265>) on Krillion to join the Krillbot database! Be sure to allow answer sharing with Krillbot for full functionality.~~
+$invite##https://discord.gg/T438mtvCk3~~
+$roles##https://discord.com/channels/1563026587543142420/1563028336224116847/1564288269410246677~~
+$help##testttt
+doesitwork? who the hell
+  knoessss

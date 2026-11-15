@@ -14,7 +14,7 @@ intents.members = True
 
 quickcommands = {}
 with open('data/quickcommands.txt', 'r') as f:
-    for line in f:
+    for line in f.read().split('~~'):
         quickcommands[line.strip().split('##')[0]] = line.strip().split('##')[1]
 
 bot = commands.Bot(command_prefix='$', intents=intents)
